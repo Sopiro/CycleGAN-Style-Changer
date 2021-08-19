@@ -1,0 +1,1 @@
+You must download checkpoint data before launching the program.

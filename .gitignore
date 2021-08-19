@@ -1,0 +1,4 @@
+.idea
+static/results/*
+static/uploads/*
+cycle_gan/checkpoints/monet/*
