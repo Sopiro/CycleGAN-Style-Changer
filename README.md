@@ -2,7 +2,7 @@
 
 Flask web app that uses Cycle GAN to change the style of image.  
 This Network was trained on [monet2photo](https://www.kaggle.com/balraj98/monet2photo) dataset.  
-If you train the network with another dataset, it's functionality will be changed according to the dataset.
+You can train the network with another dataset found [here](https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/).
 
 Video: https://youtu.be/dbgwi2hdn34  
 
